@@ -19,3 +19,19 @@
   cursor: pointer;
   color: #0088cc;
 }
+
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
+}
+
+.blue-background {
+  background-image: url("https://images-na.ssl-images-amazon.com/images/I/51zLZbEVSTL._SX425_.jpg");
+}
